@@ -6,7 +6,8 @@ Group4_lab\
 ├── menuItem.py      # contains the MenuItem class\
 ├── restaurant.py     # contains the Restaurant class\
 ├── labDriver.py      # contains main program logic\ 
-└── README.md\
+
+└── README.md
 
 ## Restaurant Ordering System
 ### Purpose of the Project
@@ -19,7 +20,7 @@ The program includes the following features:\
 • Allow the customer to order more than one item.\
 • Calculate the total price.\
 • Show an order summary.\
-• Let the customer place another order or quit the program.\
+• Let the customer place another order or quit the program.
 
 ### Classes Used in the Program
 Menu Item: This class stores information about one menu item.\
@@ -30,6 +31,7 @@ Methods:\
 • get_name()\
 • get_price()\
 • __str__
+\
 \
 Restaurant: This class manages the menu and customer orders.\
 Attributes:\
