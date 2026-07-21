@@ -3,10 +3,10 @@ Repository for CSC 157 Group 4 Lab
 
 ## File layout 
 Group4_lab\
-├── menuItem.py      # contains the MenuItem class
-├── restaurant.py     # contains the Restaurant class
-├── labDriver.py      # contains main program logic 
-└── README.md
+├── menuItem.py      # contains the MenuItem class\
+├── restaurant.py     # contains the Restaurant class\
+├── labDriver.py      # contains main program logic\ 
+└── README.md\
 
 ## Restaurant Ordering System
 ### Purpose of the Project
@@ -29,8 +29,8 @@ Attributes:\
 Methods:\
 • get_name()\
 • get_price()\
-• __str__\
-
+• __str__
+\
 Restaurant: This class manages the menu and customer orders.\
 Attributes:\
 • menu_items\
