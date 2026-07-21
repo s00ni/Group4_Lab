@@ -3,9 +3,9 @@ Repository for CSC 157 Group 4 Lab
 
 ## File layout 
 Group4_lab\
-├── menuItem.py      # contains the MenuItem class\
-├── restaurant.py     # contains the Restaurant class\
-├── labDriver.py      # contains main program logic\
+├── menuItem.py&nbsp;&nbsp;&nbsp;# contains the MenuItem class\
+├── restaurant.py&nbsp;&nbsp;&nbsp;# contains the Restaurant class\
+├── labDriver.py&nbsp;&nbsp;&nbsp;# contains main program logic\
 └── README.md
 
 ## Restaurant Ordering System
