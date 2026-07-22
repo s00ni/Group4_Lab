@@ -1,16 +1,10 @@
-from menuItem import MenuItem
-
-class Restaurant: 
-  def __init__(self):
-    self._menu_items = []
-    self._order_list = []
-
-  def display_menu(self):
-  
-  def add_order():
-    
-  def calculate_total():
-    
-  def display_order():
-    
-  def clear_order():
+class MenuItem:
+    def __init__(self, name: str, price: float):
+        self.name = name
+        self.price = price
+    def get_name(self) -> str:
+        return self.name
+    def get_price(self) -> float:
+        return self.price
+    def __str__(self) -> str:
+        return f"{self.name} - ${self.price:.2f}"
